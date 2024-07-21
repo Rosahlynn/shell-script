@@ -22,3 +22,5 @@ agendamento() {
     echo "Agendamento cancelado"
   fi
 }
+
+agendamento
